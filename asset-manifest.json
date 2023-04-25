@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/stupid-calculator/static/css/main.47ba3619.css",
-    "main.js": "/stupid-calculator/static/js/main.061245b7.js",
+    "main.css": "/stupid-calculator/static/css/main.bc94f0a0.css",
+    "main.js": "/stupid-calculator/static/js/main.20b59387.js",
     "static/js/787.43c92920.chunk.js": "/stupid-calculator/static/js/787.43c92920.chunk.js",
     "static/media/digital-7.ttf": "/stupid-calculator/static/media/digital-7.93911ab167c943140756.ttf",
     "static/media/logo.svg": "/stupid-calculator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/stupid-calculator/index.html",
-    "main.47ba3619.css.map": "/stupid-calculator/static/css/main.47ba3619.css.map",
-    "main.061245b7.js.map": "/stupid-calculator/static/js/main.061245b7.js.map",
+    "main.bc94f0a0.css.map": "/stupid-calculator/static/css/main.bc94f0a0.css.map",
+    "main.20b59387.js.map": "/stupid-calculator/static/js/main.20b59387.js.map",
     "787.43c92920.chunk.js.map": "/stupid-calculator/static/js/787.43c92920.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.47ba3619.css",
-    "static/js/main.061245b7.js"
+    "static/css/main.bc94f0a0.css",
+    "static/js/main.20b59387.js"
   ]
 }
