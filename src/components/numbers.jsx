@@ -1,5 +1,9 @@
 import { useState } from "react";
 
+import sound from '../sounds/click.mp3';
+
+const aud = new Audio(sound);
+
 // calculations
 
 function compute(expression){
@@ -23,6 +27,8 @@ function Calculator(props){
     } 
 
     function handleClick(event){
+        aud.currentTime = 0;
+        aud.play();
         switch(event.target.value){
             
             case "0":
