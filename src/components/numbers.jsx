@@ -107,9 +107,8 @@ function Calculator(props){
         <div id="container">
             
             <div id="display">
-                {/* <p id="expression">{ data.expression }</p>
-                <p id="result"> { data.result } </p> */}
-                { data.result }
+                <p id="expression">{ data.expression }</p>
+                <p id="result"> { data.result } </p>
             </div>
 
             <Button id="clear" handleClick={ handleClick } value="AC" />
