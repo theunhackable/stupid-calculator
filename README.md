@@ -1,1 +1,1 @@
-# [live link] (https://theunhackable.github.io/stupid-calculator/)
+# [live link](https://theunhackable.github.io/stupid-calculator/)
